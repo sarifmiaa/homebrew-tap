@@ -1,6 +1,6 @@
 cask "grammarbar" do
-  version "1.0.2"
-  sha256 "ab298d75849302d0cd3696f76bc386d7174998c649760354078278fe757480ab"
+  version "1.0.3"
+  sha256 "e68eb4baf664db272aa3c909c1656632bccd3001524cc30b1a5556bccf1ba56c"
 
   url "https://github.com/sarifmiaa/GrammarBar/releases/download/v#{version}/GrammarBar.zip"
   name "GrammarBar"
